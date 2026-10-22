@@ -6,8 +6,9 @@ Senior Android and Kotlin Multiplatform engineer, 8+ years. I like the hard part
 - **Performance:** built the media stack and ~25-stage real-time pipeline behind Snapchat Cameos (NDK/C++, OpenGL, codec and buffer pools).
 - **UI and motion:** led the Fragments-to-Compose migration at Argent and built its complex custom animations.
 - **Smart contracts:** [santiment/san-rewards](https://github.com/santiment/san-rewards) at Santiment: Wallet Hunters bounty and voting, Merkle airdrop, gasless EIP-712 relay, Optimism L2 deployment.
+- **Open source:** [nosqlite.kt](https://github.com/nailkhaf/nosqlite.kt), a Kotlin Multiplatform document store on SQLite JSONB for Android, iOS and JVM: kotlinx.serialization documents, unique and partial indexes, a typed query DSL, streaming cursors and observable queries.
 - **Side project:** [Kosh](https://github.com/nailkhaf/kosh), a hardware-wallet companion for Android and iOS in Kotlin Multiplatform: Trezor, Ledger and Keystone over USB/BLE, WalletConnect, and its own Ethereum ABI and EIP-712 stack.
 
-**Stack:** Kotlin, Jetpack Compose, Kotlin Multiplatform, Coroutines/Flow, NDK/C++, OpenGL, Rust, Solidity.
+**Stack:** Kotlin, Jetpack Compose, Kotlin Multiplatform, Coroutines/Flow, SQLite, NDK/C++, OpenGL, Rust, Solidity.
 
 Remote from Spain (CET) · [LinkedIn](https://www.linkedin.com/in/nail25)
